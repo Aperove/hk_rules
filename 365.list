@@ -1,0 +1,88 @@
+# NAME: AlipayHK
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,taobao.com
+
+# NAME: Fusion Bank
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,fusionbank.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
+
+# NAME: 天星银行
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,xiaomi.com
+
+# NAME: ZA BANK
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,zatican.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,branch.io
+
+# NAME: HASHKEY
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,accuratead.cn
+DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,engagelab.cc
+
+# NAME: Wirex
+DOMAIN-SUFFIX,wirexapp.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,appboy.eu
+DOMAIN-SUFFIX,pusher.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,braze.eu
+
+# NAME: PAYME
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,tealiumia.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,notey.com
+
+# NAME: Reward+
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,appdynamics.com
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,tiacdn.com
+
+# NAME: HSBC
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,tealiumia.com
+DOMAIN-SUFFIX,we-stats.com
+DOMAIN-SUFFIX,qualtrics.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,vv1865.com
+
+# NAME: 涨乐全球通
+DOMAIN-SUFFIX,zhangle.com
+DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,chinatai.com
+DOMAIN-SUFFIX,htsc.com
+DOMAIN-SUFFIX,roadshowing.com
+DOMAIN-SUFFIX,jin10.com
+
+# NAME: 微牛
+DOMAIN-SUFFIX,webullfintech.com
+DOMAIN-SUFFIX,wosecurities.com
+DOMAIN-SUFFIX,bullwe.com
+DOMAIN-SUFFIX,wbsecurities.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,webull.hk
+DOMAIN-SUFFIX,geotrust.com
